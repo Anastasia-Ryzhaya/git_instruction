@@ -23,3 +23,5 @@
 * ## git checkout *name*
 
 * ## git merge *name*
+
+![Пёсель](dog.png)
