@@ -1,7 +1,7 @@
 # Инструкция по использованию Git
 
 * ## git init
-
+**что-то делает**
 * ## git add *name*
 
 * ## git commit -m *"comment"*
